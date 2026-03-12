@@ -13,3 +13,9 @@ Through this project I learned:
 ## Live Demo
 Play the game here:  
 https://deeparastogi07.github.io/Simon-Says-Game/
+
+## Author
+
+Deepa Rastogi
+Computer Science Undergraduate
+Aspiring Software Developer
