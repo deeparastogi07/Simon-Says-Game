@@ -16,6 +16,6 @@ https://deeparastogi07.github.io/Simon-Says-Game/
 
 ## Author
 
-Deepa Rastogi
-Computer Science Undergraduate
+Deepa Rastogi, 
+Computer Science Undergraduate, 
 Aspiring Software Developer
