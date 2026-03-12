@@ -9,3 +9,7 @@ Through this project I learned:
 - Managing game state and sequences
 - Implementing game logic with arrays and loops
 - Improving UI feedback using CSS animations
+
+## Live Demo
+Play the game here:  
+https://deeparastogi07.github.io/Simon-Says-Game/
